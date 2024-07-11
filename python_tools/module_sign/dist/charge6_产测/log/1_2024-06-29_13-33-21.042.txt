@@ -1,0 +1,2 @@
+[2024-06-29-13:33:20.996] 是否启用MES： False
+[2024-06-29-13:33:21.041] [Errno 13] Permission denied: './excel_files/2024-06-29.xlsx'

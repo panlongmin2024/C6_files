@@ -1,0 +1,1 @@
+[2024-05-31-17:12:55.760] native Qt signal is not callable

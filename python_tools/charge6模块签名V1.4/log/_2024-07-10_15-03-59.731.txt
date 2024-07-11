@@ -1,0 +1,9 @@
+[2024-07-10-15:03:58.898] open port
+[2024-07-10-15:03:59.542] b'WLT_READ_UUID18aa90afa6a10100a2230a5e602f9b0d'
+[2024-07-10-15:03:59.543] 18aa90afa6a10100a2230a5e602f9b0d
+[2024-07-10-15:03:59.543] hash_value:e9aa910f4ee7613fc9a2b9be04e86c31fedf7c2177e8fbc418a7be98d6bb0d4b
+[2024-07-10-15:03:59.544] 向树莓派发送请求,url: https://harman-ten-wltd-1/sign-hardware-id
+[2024-07-10-15:03:59.546] [{'hashOfHardwareId': 'e9aa910f4ee7613fc9a2b9be04e86c31fedf7c2177e8fbc418a7be98d6bb0d4b', 'productModelName': 'JBL Charge 6', 'hardwareId': '18aa90afa6a10100a2230a5e602f9b0d'}]
+[2024-07-10-15:03:59.582] response:
+[2024-07-10-15:03:59.582] 5
+[2024-07-10-15:03:59.731] 

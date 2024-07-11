@@ -1,0 +1,1 @@
+[2024-06-28-17:13:12.503] 'utf-8' codec can't decode byte 0x97 in position 0: invalid start byte

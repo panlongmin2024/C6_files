@@ -1,0 +1,332 @@
+2024-05-25 17:11:42,425 - my_logger - ERROR - Extracted traceback from traceback object:
+2024-05-25 17:11:42,426 - my_logger - ERROR - File :D:\work\Test2024-5-18\test_matter.py, Line : 144, Func.Name : run, Text : self.try_get_permi()
+2024-05-25 17:11:48,688 - my_logger - ERROR - Extracted traceback from traceback object:
+2024-05-25 17:11:48,689 - my_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 144, Func.Name : run, Text : self.try_get_permi()
+2024-05-27 16:00:55,241 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-05-27 16:00:55,247 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 251, Func.Name : run, Text : self.test_sth()
+2024-05-27 16:00:55,248 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-05-27 16:00:55,248 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-05-27 16:00:55,248 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-05-27 16:00:55,248 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-05-27 16:00:55,248 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 271, Func.Name : execute, Text : if not self._eval_conditions(event_data):
+2024-05-27 16:00:55,248 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 252, Func.Name : _eval_conditions, Text : if not cond.check(event_data):
+2024-05-27 16:00:55,248 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 191, Func.Name : check, Text : return predicate(*event_data.args, **event_data.kwargs) == self.target
+2024-05-27 16:00:55,248 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 137, Func.Name : test_check, Text : self.test_end_signal('¹ýÕ¾Ê§°Ü', 'FAIL', '¹ýÕ¾Ê§°Ü')
+2024-05-27 16:04:03,404 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-05-27 16:04:03,411 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 251, Func.Name : run, Text : self.test_sth()
+2024-05-27 16:04:03,411 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-05-27 16:04:03,411 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-05-27 16:04:03,411 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-05-27 16:04:03,411 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-05-27 16:04:03,411 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 271, Func.Name : execute, Text : if not self._eval_conditions(event_data):
+2024-05-27 16:04:03,411 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 252, Func.Name : _eval_conditions, Text : if not cond.check(event_data):
+2024-05-27 16:04:03,411 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 191, Func.Name : check, Text : return predicate(*event_data.args, **event_data.kwargs) == self.target
+2024-05-27 16:04:03,411 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 137, Func.Name : test_check, Text : self.test_end_signal('¹ýÕ¾Ê§°Ü', 'FAIL', '¹ýÕ¾Ê§°Ü')
+2024-05-27 16:25:46,359 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-05-27 16:25:46,375 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 252, Func.Name : run, Text : self.test_sth()
+2024-05-27 16:25:46,375 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-05-27 16:25:46,375 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-05-27 16:25:46,375 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-05-27 16:25:46,375 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-05-27 16:25:46,376 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-05-27 16:25:46,376 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-05-27 16:25:46,376 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-05-27 16:25:46,376 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 188, Func.Name : test_main2, Text : self.test_result, self.test_data, self.test_message = self.test_main()
+2024-05-27 16:25:46,376 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 179, Func.Name : test_main, Text : signature, msg = send_file_for_signing(self.config_data['pi_url'], hash_value, self.msg_signal)
+2024-05-27 16:25:46,376 - error_logger - ERROR - File : D:\work\Test2024-5-18\module\create_hash.py, Line : 41, Func.Name : send_file_for_signing, Text : response = requests.post(url=server_url, json=data,timeout=3)
+2024-05-27 16:25:46,376 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 115, Func.Name : post, Text : return request("post", url, data=data, json=json, **kwargs)
+2024-05-27 16:25:46,377 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 59, Func.Name : request, Text : return session.request(method=method, url=url, **kwargs)
+2024-05-27 16:25:46,377 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 589, Func.Name : request, Text : resp = self.send(prep, **send_kwargs)
+2024-05-27 16:25:46,377 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 703, Func.Name : send, Text : r = adapter.send(request, **kwargs)
+2024-05-27 16:25:46,377 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\adapters.py, Line : 585, Func.Name : send, Text : raise ConnectTimeout(e, request=request)
+2024-05-27 16:28:16,919 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-05-27 16:28:16,930 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 252, Func.Name : run, Text : self.test_sth()
+2024-05-27 16:28:16,930 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-05-27 16:28:16,930 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-05-27 16:28:16,931 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-05-27 16:28:16,931 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-05-27 16:28:16,931 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-05-27 16:28:16,931 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-05-27 16:28:16,931 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-05-27 16:28:16,931 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 188, Func.Name : test_main2, Text : self.test_result, self.test_data, self.test_message = self.test_main()
+2024-05-27 16:28:16,932 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 179, Func.Name : test_main, Text : signature, msg = send_file_for_signing(self.config_data['pi_url'], hash_value, self.msg_signal)
+2024-05-27 16:28:16,932 - error_logger - ERROR - File : D:\work\Test2024-5-18\module\create_hash.py, Line : 41, Func.Name : send_file_for_signing, Text : response = requests.post(url=server_url, json=data,timeout=3)
+2024-05-27 16:28:16,932 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 115, Func.Name : post, Text : return request("post", url, data=data, json=json, **kwargs)
+2024-05-27 16:28:16,932 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 59, Func.Name : request, Text : return session.request(method=method, url=url, **kwargs)
+2024-05-27 16:28:16,932 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 589, Func.Name : request, Text : resp = self.send(prep, **send_kwargs)
+2024-05-27 16:28:16,932 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 703, Func.Name : send, Text : r = adapter.send(request, **kwargs)
+2024-05-27 16:28:16,932 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\adapters.py, Line : 585, Func.Name : send, Text : raise ConnectTimeout(e, request=request)
+2024-05-27 16:31:22,827 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-05-27 16:31:22,838 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 252, Func.Name : run, Text : self.test_sth()
+2024-05-27 16:31:22,838 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 188, Func.Name : test_main2, Text : self.test_result, self.test_data, self.test_message = self.test_main()
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 179, Func.Name : test_main, Text : signature, msg = send_file_for_signing(self.config_data['pi_url'], hash_value, self.msg_signal)
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\work\Test2024-5-18\module\create_hash.py, Line : 41, Func.Name : send_file_for_signing, Text : response = requests.post(url=server_url, json=data,timeout=3)
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 115, Func.Name : post, Text : return request("post", url, data=data, json=json, **kwargs)
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 59, Func.Name : request, Text : return session.request(method=method, url=url, **kwargs)
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 589, Func.Name : request, Text : resp = self.send(prep, **send_kwargs)
+2024-05-27 16:31:22,839 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 703, Func.Name : send, Text : r = adapter.send(request, **kwargs)
+2024-05-27 16:31:22,840 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\adapters.py, Line : 585, Func.Name : send, Text : raise ConnectTimeout(e, request=request)
+2024-05-27 16:35:48,491 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-05-27 16:35:48,500 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 252, Func.Name : run, Text : self.test_sth()
+2024-05-27 16:35:48,500 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-05-27 16:35:48,500 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-05-27 16:35:48,500 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-05-27 16:35:48,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-05-27 16:35:48,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-05-27 16:35:48,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-05-27 16:35:48,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-05-27 16:35:48,501 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 188, Func.Name : test_main2, Text : self.test_result, self.test_data, self.test_message = self.test_main()
+2024-05-27 16:35:48,501 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 179, Func.Name : test_main, Text : signature, msg = send_file_for_signing(self.config_data['pi_url'], hash_value, self.msg_signal)
+2024-05-27 16:35:48,501 - error_logger - ERROR - File : D:\work\Test2024-5-18\module\create_hash.py, Line : 41, Func.Name : send_file_for_signing, Text : response = requests.post(url=server_url, json=data,timeout=3)
+2024-05-27 16:35:48,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 115, Func.Name : post, Text : return request("post", url, data=data, json=json, **kwargs)
+2024-05-27 16:35:48,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 59, Func.Name : request, Text : return session.request(method=method, url=url, **kwargs)
+2024-05-27 16:35:48,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 589, Func.Name : request, Text : resp = self.send(prep, **send_kwargs)
+2024-05-27 16:35:48,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 703, Func.Name : send, Text : r = adapter.send(request, **kwargs)
+2024-05-27 16:35:48,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\adapters.py, Line : 585, Func.Name : send, Text : raise ConnectTimeout(e, request=request)
+2024-05-27 16:36:06,492 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-05-27 16:36:06,495 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 252, Func.Name : run, Text : self.test_sth()
+2024-05-27 16:36:06,495 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-05-27 16:36:06,496 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-05-27 16:36:06,496 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-05-27 16:36:06,496 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-05-27 16:36:06,496 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-05-27 16:36:06,496 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-05-27 16:36:06,496 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-05-27 16:36:06,496 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 188, Func.Name : test_main2, Text : self.test_result, self.test_data, self.test_message = self.test_main()
+2024-05-27 16:36:06,497 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 179, Func.Name : test_main, Text : signature, msg = send_file_for_signing(self.config_data['pi_url'], hash_value, self.msg_signal)
+2024-05-27 16:36:06,497 - error_logger - ERROR - File : D:\work\Test2024-5-18\module\create_hash.py, Line : 41, Func.Name : send_file_for_signing, Text : response = requests.post(url=server_url, json=data,timeout=3)
+2024-05-27 16:36:06,497 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 115, Func.Name : post, Text : return request("post", url, data=data, json=json, **kwargs)
+2024-05-27 16:36:06,497 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 59, Func.Name : request, Text : return session.request(method=method, url=url, **kwargs)
+2024-05-27 16:36:06,497 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 589, Func.Name : request, Text : resp = self.send(prep, **send_kwargs)
+2024-05-27 16:36:06,497 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 703, Func.Name : send, Text : r = adapter.send(request, **kwargs)
+2024-05-27 16:36:06,498 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\adapters.py, Line : 585, Func.Name : send, Text : raise ConnectTimeout(e, request=request)
+2024-05-27 16:37:11,736 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-05-27 16:37:11,748 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 252, Func.Name : run, Text : self.test_sth()
+2024-05-27 16:37:11,748 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-05-27 16:37:11,748 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-05-27 16:37:11,748 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-05-27 16:37:11,748 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-05-27 16:37:11,748 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-05-27 16:37:11,749 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-05-27 16:37:11,749 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-05-27 16:37:11,749 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 188, Func.Name : test_main2, Text : self.test_result, self.test_data, self.test_message = self.test_main()
+2024-05-27 16:37:11,749 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 179, Func.Name : test_main, Text : signature, msg = send_file_for_signing(self.config_data['pi_url'], hash_value, self.msg_signal)
+2024-05-27 16:37:11,749 - error_logger - ERROR - File : D:\work\Test2024-5-18\module\create_hash.py, Line : 41, Func.Name : send_file_for_signing, Text : response = requests.post(url=server_url, json=data,timeout=3)
+2024-05-27 16:37:11,749 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 115, Func.Name : post, Text : return request("post", url, data=data, json=json, **kwargs)
+2024-05-27 16:37:11,750 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 59, Func.Name : request, Text : return session.request(method=method, url=url, **kwargs)
+2024-05-27 16:37:11,750 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 589, Func.Name : request, Text : resp = self.send(prep, **send_kwargs)
+2024-05-27 16:37:11,750 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 703, Func.Name : send, Text : r = adapter.send(request, **kwargs)
+2024-05-27 16:37:11,750 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\adapters.py, Line : 585, Func.Name : send, Text : raise ConnectTimeout(e, request=request)
+2024-05-31 17:12:55,748 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-05-31 17:12:55,755 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 255, Func.Name : run, Text : self.save_data()
+2024-05-31 17:12:55,756 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-05-31 17:12:55,757 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-05-31 17:12:55,757 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-05-31 17:12:55,758 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-05-31 17:12:55,758 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-05-31 17:12:55,758 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-05-31 17:12:55,759 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-05-31 17:12:55,759 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 199, Func.Name : create_excel, Text : self.test_end_signal(self.test_result, self.test_result, self.test_message)
+2024-05-31 17:16:21,068 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-05-31 17:16:21,072 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 255, Func.Name : run, Text : self.save_data()
+2024-05-31 17:16:21,073 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-05-31 17:16:21,073 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-05-31 17:16:21,074 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-05-31 17:16:21,074 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-05-31 17:16:21,075 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-05-31 17:16:21,075 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-05-31 17:16:21,075 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-05-31 17:16:21,076 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 199, Func.Name : create_excel, Text : self.test_end_signal.emit(self.test_result, self.test_result, self.test_message)
+2024-06-28 16:18:03,682 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-28 16:18:03,700 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 249, Func.Name : run, Text : self.test_sth()
+2024-06-28 16:18:03,700 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-28 16:18:03,700 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-28 16:18:03,700 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-28 16:18:03,701 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-28 16:18:03,701 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-28 16:18:03,701 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-28 16:18:03,701 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-28 16:18:03,701 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 184, Func.Name : test_main2, Text : self.test_result, self.test_data, self.test_message = self.test_main()
+2024-06-28 16:18:03,701 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 176, Func.Name : test_main, Text : uuid2, hash_value, key_cmd = main_func(
+2024-06-28 16:18:03,701 - error_logger - ERROR - File : D:\work\Test2024-5-18\module\create_write_check_key.py, Line : 27, Func.Name : main_func, Text : uuid_org = com.read(45).decode()
+2024-06-28 16:20:01,825 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-28 16:20:01,831 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 249, Func.Name : run, Text : self.test_sth()
+2024-06-28 16:20:01,831 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-28 16:20:01,831 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-28 16:20:01,831 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-28 16:20:01,832 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-28 16:20:01,832 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-28 16:20:01,832 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-28 16:20:01,832 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-28 16:20:01,832 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 184, Func.Name : test_main2, Text : self.test_result, self.test_data, self.test_message = self.test_main()
+2024-06-28 16:20:01,832 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 176, Func.Name : test_main, Text : uuid2, hash_value, key_cmd = main_func(
+2024-06-28 16:20:01,833 - error_logger - ERROR - File : D:\work\Test2024-5-18\module\create_write_check_key.py, Line : 27, Func.Name : main_func, Text : uuid_org = com.read(45).decode('utf-8')
+2024-06-28 17:13:12,495 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-28 17:13:12,501 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 249, Func.Name : run, Text : self.test_sth()
+2024-06-28 17:13:12,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-28 17:13:12,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-28 17:13:12,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-28 17:13:12,501 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-28 17:13:12,502 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-28 17:13:12,502 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-28 17:13:12,502 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-28 17:13:12,502 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 184, Func.Name : test_main2, Text : self.test_result, self.test_data, self.test_message = self.test_main()
+2024-06-28 17:13:12,502 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 176, Func.Name : test_main, Text : uuid2, hash_value, key_cmd = main_func(
+2024-06-28 17:13:12,502 - error_logger - ERROR - File : D:\work\Test2024-5-18\module\create_write_check_key.py, Line : 33, Func.Name : main_func, Text : uuid_org = uuid1.decode('utf-8')
+2024-06-28 17:22:25,302 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-28 17:22:25,311 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 252, Func.Name : run, Text : self.save_data()
+2024-06-28 17:22:25,311 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-28 17:22:25,312 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-28 17:22:25,312 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-28 17:22:25,312 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-28 17:22:25,312 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-28 17:22:25,312 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-28 17:22:25,313 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-28 17:22:25,313 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 190, Func.Name : create_excel, Text : excel_dict[j] = i[j]
+2024-06-28 17:31:50,327 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-28 17:31:50,333 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 276, Func.Name : run, Text : self.test_sth()
+2024-06-28 17:31:50,333 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-28 17:31:50,334 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-28 17:31:50,334 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-28 17:31:50,334 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-28 17:31:50,334 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-28 17:31:50,334 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-28 17:31:50,334 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1188, Func.Name : callback, Text : func = self.resolve_callable(func, event_data)
+2024-06-28 17:31:50,334 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1219, Func.Name : resolve_callable, Text : raise AttributeError("Callable with name '%s' could neither be retrieved from the passed "
+2024-06-28 17:37:50,722 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-28 17:37:50,727 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 280, Func.Name : run, Text : self.test_sth()
+2024-06-28 17:37:50,728 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-28 17:37:50,728 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-28 17:37:50,728 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-28 17:37:50,728 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-28 17:37:50,728 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-28 17:37:50,729 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-28 17:37:50,729 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-28 17:37:50,729 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 197, Func.Name : test_main, Text : ascii_string = bytes.fromhex(str(raw)).decode('ascii')
+2024-06-28 17:44:15,337 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-28 17:44:15,344 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 281, Func.Name : run, Text : self.save_data()
+2024-06-28 17:44:15,344 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-28 17:44:15,344 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-28 17:44:15,344 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-28 17:44:15,344 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-28 17:44:15,344 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-28 17:44:15,344 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-28 17:44:15,344 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-28 17:44:15,344 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 219, Func.Name : create_excel, Text : excel_dict[j] = i[j]
+2024-06-28 17:45:47,314 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-28 17:45:47,322 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 281, Func.Name : run, Text : self.save_data()
+2024-06-28 17:45:47,322 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-28 17:45:47,322 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-28 17:45:47,322 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-28 17:45:47,322 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-28 17:45:47,322 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-28 17:45:47,322 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-28 17:45:47,322 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-28 17:45:47,322 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 219, Func.Name : create_excel, Text : excel_dict[j] = i[j]
+2024-06-28 18:08:58,017 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-28 18:08:58,036 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 279, Func.Name : run, Text : self.test_sth()
+2024-06-28 18:08:58,037 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-28 18:08:58,037 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-28 18:08:58,037 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-28 18:08:58,037 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-28 18:08:58,037 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-28 18:08:58,037 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-28 18:08:58,038 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-28 18:08:58,038 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 182, Func.Name : test_main, Text : self.com.write(a2b_hex('7573657220656e7465725f756172745f'))
+2024-06-28 18:08:58,038 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\serial\serialwin32.py, Line : 306, Func.Name : write, Text : raise PortNotOpenError()
+2024-06-28 18:10:08,798 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-28 18:10:08,805 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 279, Func.Name : run, Text : self.test_sth()
+2024-06-28 18:10:08,805 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-28 18:10:08,806 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-28 18:10:08,806 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-28 18:10:08,806 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-28 18:10:08,806 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-28 18:10:08,806 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-28 18:10:08,806 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-28 18:10:08,806 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 182, Func.Name : test_main, Text : self.com.write(a2b_hex('7573657220656e7465725f756172745f'))
+2024-06-28 18:10:08,807 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\serial\serialwin32.py, Line : 306, Func.Name : write, Text : raise PortNotOpenError()
+2024-06-28 18:10:20,741 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-28 18:10:20,749 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 279, Func.Name : run, Text : self.test_sth()
+2024-06-28 18:10:20,749 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-28 18:10:20,749 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-28 18:10:20,749 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-28 18:10:20,749 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-28 18:10:20,749 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-28 18:10:20,750 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-28 18:10:20,750 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-28 18:10:20,750 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 182, Func.Name : test_main, Text : self.com.write(a2b_hex('7573657220656e7465725f756172745f'))
+2024-06-28 18:10:20,750 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\serial\serialwin32.py, Line : 306, Func.Name : write, Text : raise PortNotOpenError()
+2024-06-28 18:11:40,224 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-28 18:11:40,228 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 279, Func.Name : run, Text : self.test_sth()
+2024-06-28 18:11:40,228 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-28 18:11:40,228 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-28 18:11:40,228 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-28 18:11:40,228 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-28 18:11:40,228 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-28 18:11:40,229 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-28 18:11:40,229 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-28 18:11:40,229 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 182, Func.Name : test_main, Text : self.com.write(a2b_hex('7573657220656e7465725f756172745f'))
+2024-06-28 18:11:40,229 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\serial\serialwin32.py, Line : 306, Func.Name : write, Text : raise PortNotOpenError()
+2024-06-29 10:26:15,520 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-29 10:26:15,561 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 175, Func.Name : run, Text : self.test_sth()
+2024-06-29 10:26:15,561 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-29 10:26:15,561 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-29 10:26:15,561 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-29 10:26:15,561 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-29 10:26:15,562 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-29 10:26:15,562 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-29 10:26:15,562 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-29 10:26:15,562 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 213, Func.Name : test_main, Text : signature, msg = send_hash_for_signing('http://192.168.1.101:8001/sign-firmware-development', hash_value)
+2024-06-29 10:26:15,562 - error_logger - ERROR - File : D:\work\Test2024-5-18\module\create_write_check_key.py, Line : 91, Func.Name : send_hash_for_signing, Text : response = requests.post(url=server_url, json=data)
+2024-06-29 10:26:15,562 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 115, Func.Name : post, Text : return request("post", url, data=data, json=json, **kwargs)
+2024-06-29 10:26:15,562 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 59, Func.Name : request, Text : return session.request(method=method, url=url, **kwargs)
+2024-06-29 10:26:15,562 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 589, Func.Name : request, Text : resp = self.send(prep, **send_kwargs)
+2024-06-29 10:26:15,562 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 703, Func.Name : send, Text : r = adapter.send(request, **kwargs)
+2024-06-29 10:26:15,563 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\adapters.py, Line : 597, Func.Name : send, Text : raise ConnectionError(e, request=request)
+2024-06-29 10:29:13,475 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-29 10:29:13,486 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 175, Func.Name : run, Text : self.test_sth()
+2024-06-29 10:29:13,486 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-29 10:29:13,486 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-29 10:29:13,487 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-29 10:29:13,487 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-29 10:29:13,487 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-29 10:29:13,487 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-29 10:29:13,487 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-29 10:29:13,487 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 213, Func.Name : test_main, Text : signature, msg = send_hash_for_signing(self.config_data['pi_url'], hash_value)
+2024-06-29 10:29:13,488 - error_logger - ERROR - File : D:\work\Test2024-5-18\module\create_write_check_key.py, Line : 91, Func.Name : send_hash_for_signing, Text : response = requests.post(url=server_url, json=data)
+2024-06-29 10:29:13,488 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 115, Func.Name : post, Text : return request("post", url, data=data, json=json, **kwargs)
+2024-06-29 10:29:13,488 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\api.py, Line : 59, Func.Name : request, Text : return session.request(method=method, url=url, **kwargs)
+2024-06-29 10:29:13,488 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 589, Func.Name : request, Text : resp = self.send(prep, **send_kwargs)
+2024-06-29 10:29:13,488 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\sessions.py, Line : 703, Func.Name : send, Text : r = adapter.send(request, **kwargs)
+2024-06-29 10:29:13,488 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\requests\adapters.py, Line : 597, Func.Name : send, Text : raise ConnectionError(e, request=request)
+2024-06-29 13:33:21,009 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-29 13:33:21,040 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 180, Func.Name : run, Text : self.save_data()
+2024-06-29 13:33:21,040 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-29 13:33:21,040 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-29 13:33:21,040 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-29 13:33:21,040 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-29 13:33:21,040 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-29 13:33:21,040 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-29 13:33:21,041 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-29 13:33:21,041 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 332, Func.Name : create_excel, Text : excel_function(excel_title, excel_dict)
+2024-06-29 13:33:21,041 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 37, Func.Name : excel_function, Text : wb.save(filename=excel_title)
+2024-06-29 13:33:21,041 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\openpyxl\workbook\workbook.py, Line : 386, Func.Name : save, Text : save_workbook(self, filename)
+2024-06-29 13:33:21,041 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\openpyxl\writer\excel.py, Line : 291, Func.Name : save_workbook, Text : archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+2024-06-29 13:33:21,041 - error_logger - ERROR - File : D:\tools\python3.11.3\Lib\zipfile.py, Line : 1283, Func.Name : __init__, Text : self.fp = io.open(file, filemode)
+2024-06-29 14:11:59,082 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-06-29 14:11:59,088 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 177, Func.Name : run, Text : self.test_sth()
+2024-06-29 14:11:59,088 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-06-29 14:11:59,088 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-06-29 14:11:59,088 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-06-29 14:11:59,088 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-06-29 14:11:59,088 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-06-29 14:11:59,089 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-06-29 14:11:59,089 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-06-29 14:11:59,089 - error_logger - ERROR - File : D:\work\Test2024-5-18\test_matter.py, Line : 225, Func.Name : test_main, Text : self.msg_signal.emit(self.com.read(10))

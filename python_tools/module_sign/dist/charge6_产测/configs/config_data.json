@@ -1,0 +1,22 @@
+{
+  "Authorization": "Basic c2FiZXI6c2FiZXJfc2VjcmV0",
+  "baud": 3000000,
+  "company_line": "World Elite",
+  "delay": 6.0,
+  "grant_type": "password",
+  "machineCode": "CZ001",
+  "password": "e10adc3949ba59abbe56e057f20f883e",
+  "pi_url": "http://192.168.1.100:8001/sign-firmware-development",
+  "port": "COM5",
+  "routeCode": "7608d9a4fc4a01e5aaea4990d13e3601",
+  "scope": "all",
+  "sn_length": 1,
+  "stationCode": "CE001",
+  "stop_bit": 1,
+  "tenant_id": "800300",
+  "title_line": "Get uuid_cert",
+  "typing": "account",
+  "username": "A0208",
+  "web_url": "192.168.0.4:8000",
+  "workOrderNo": "YQ240521070"
+}

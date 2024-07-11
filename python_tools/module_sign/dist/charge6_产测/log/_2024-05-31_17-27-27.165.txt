@@ -1,0 +1,12 @@
+[2024-05-31-17:27:26.635] 发送过站请求: 
+[2024-05-31-17:27:26.811] {'code': 400, 'success': False, 'data': None, 'msg': 'A4B65D020026产品属于【外观检查】工序，不属于此工序，无法生产！'}
+[2024-05-31-17:27:26.812] 过站失败
+[2024-05-31-17:27:26.825] released, Current memory usage is 0.623564MB Peak was 1.046836MB
+[2024-05-31-17:27:26.826] ======================================================================
+[2024-05-31-17:27:26.837] uuid_string: f9d23b4d8645409ea2e7047613ce9ef5
+[2024-05-31-17:27:26.877] hash_value:542bbc97278275bd2d2d0758b6d97fccdede6922578c880bf2337a60037f113f
+[2024-05-31-17:27:26.877] 向树莓派发送请求,url: http://192.168.1.100:8001/sign-firmware-development
+[2024-05-31-17:27:26.971] response:{"signature":"Wl1bDAQo2US8GUzNTPYE4TMdRgukMR+U/ls1Cep5Z8E4bSYFo3/V+By9/Ts4KtVlUmjfEYELXNuFd9TTj/Nq/IqMEs19z3q2AxcM78wkbVD5wG7cw3Ml3N/xazKsNQnhwVboExh+srHx9AYmjaPn7hzS/ML/kBzC10CwmCJDSlUGHvr9Vv/xCQDffs99oDkW42QB+aw4yZye6qCrgagbgmJgARjOS7cMvvp5LK9ufVzu3Iu1z+7dGpYCPUJo8GogT44+iKZdR1sKvTU6BZnslLavPP0pz1Pd4czLfm1FNJLdTOIWkEWC0r1lOZGebnGwjPFOMDk3OkLgVfytJ8fJgw=="}
+
+[2024-05-31-17:27:26.974] key文件生成成功
+[2024-05-31-17:27:27.165] {'code': 400, 'success': False, 'data': None, 'msg': 'A4B65D020026产品属于【外观检查】工序，不属于此工序，无法生产！'}

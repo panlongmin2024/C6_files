@@ -1,0 +1,1 @@
+[2024-05-31-17:16:21.076] Matter.test_end_signal[str, str, str].emit(): argument 1 has unexpected type 'bool'

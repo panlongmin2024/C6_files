@@ -1,0 +1,12 @@
+2024-07-07 15:25:44,383 - error_logger - ERROR - Extracted traceback from traceback object:
+2024-07-07 15:25:44,413 - error_logger - ERROR - File : D:\work\Test2024-5-18\module_signature.py, Line : 174, Func.Name : run, Text : self.test_sth()
+2024-07-07 15:25:44,413 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 406, Func.Name : trigger, Text : return self.machine._process(func)
+2024-07-07 15:25:44,413 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1236, Func.Name : _process, Text : return trigger()
+2024-07-07 15:25:44,414 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 420, Func.Name : _trigger, Text : self._process(event_data)
+2024-07-07 15:25:44,414 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 443, Func.Name : _process, Text : if trans.execute(event_data):
+2024-07-07 15:25:44,414 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 274, Func.Name : execute, Text : event_data.machine.callbacks(itertools.chain(event_data.machine.before_state_change, self.before), event_data)
+2024-07-07 15:25:44,414 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1171, Func.Name : callbacks, Text : self.callback(func, event_data)
+2024-07-07 15:25:44,415 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\transitions\core.py, Line : 1192, Func.Name : callback, Text : func(*event_data.args, **event_data.kwargs)
+2024-07-07 15:25:44,415 - error_logger - ERROR - File : D:\work\Test2024-5-18\module_signature.py, Line : 228, Func.Name : test_main2, Text : self.set_port()
+2024-07-07 15:25:44,415 - error_logger - ERROR - File : D:\work\Test2024-5-18\module_signature.py, Line : 223, Func.Name : set_port, Text : self.com.open()
+2024-07-07 15:25:44,415 - error_logger - ERROR - File : D:\python_enviroment\pyqt6_vir\Lib\site-packages\serial\serialwin32.py, Line : 64, Func.Name : open, Text : raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))

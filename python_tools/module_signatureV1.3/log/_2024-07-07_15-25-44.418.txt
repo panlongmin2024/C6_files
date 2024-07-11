@@ -1,0 +1,1 @@
+[2024-07-07-15:25:44.417] could not open port 'COM6': OSError(22, '信号灯超时时间已到', None, 121)

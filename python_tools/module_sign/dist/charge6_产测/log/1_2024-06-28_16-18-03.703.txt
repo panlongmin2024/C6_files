@@ -1,0 +1,1 @@
+[2024-06-28-16:18:03.702] 'utf-8' codec can't decode byte 0xfa in position 2: invalid start byte

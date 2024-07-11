@@ -1,0 +1,1 @@
+[2024-06-29-10:29:13.489] HTTPConnectionPool(host='192.168.1.102', port=8001): Max retries exceeded with url: /sign-firmware-development (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021E13627350>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))

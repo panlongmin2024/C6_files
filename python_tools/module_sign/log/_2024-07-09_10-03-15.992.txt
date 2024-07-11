@@ -1,0 +1,9 @@
+[2024-07-09-10:03:15.099] open port
+[2024-07-09-10:03:15.740] b'WLT_READ_UUID58aaa4bfa6a1010062b701ed60c3a6ac'
+[2024-07-09-10:03:15.746] 58aaa4bfa6a1010062b701ed60c3a6ac
+[2024-07-09-10:03:15.748] hash_value:5d27d7a5a688142d3668aac77999885172203a1b0749c1c7d9ab63d149f63430
+[2024-07-09-10:03:15.749] [{'hashOfHardwareId': '5d27d7a5a688142d3668aac77999885172203a1b0749c1c7d9ab63d149f63430', 'productModelName': 'JBL Charge 6', 'signatureScheme': 'RSASSA-PSS', 'hardwareId': '58aaa4bfa6a1010062b701ed60c3a6ac'}]
+[2024-07-09-10:03:15.751] 向树莓派发送请求,url: https://harman-ten-wltd-1/sign-hardware-id
+[2024-07-09-10:03:15.819] response:[{"hardwareId":"58aaa4bfa6a1010062b701ed60c3a6ac","signature":"D96BH+3moQxroCKxUMO/WxC3Fjog+uPk+f0k03sMWKEmRyaVg4Uq077n9Hk9oq1ulxq3rai4nkVhXz/5hLvIfzzvz2RuCgl/Fn0KIB2Bi8ZabqXwR9yjYWIvJ9fEB4Lc6ujPSxGTeHXSumB2ZHCszmX8XHNPcOSSS+PyTsAEUvdpuWFrW4gvfyMnGMBkwyqjztYctepSmzMNAW3YiJlOI7JPGk/XvhXw24KdBnVedonUBfBpcG2lYo9nKoo9dxTUUeHWEyXfcVlSzTnYfmS2OdZIvncH0Kf68OrcA1HENUoJCmCgFKvHcUO9mfe8NwRj2rK+WB18DJElpfFVQWDiDw=="}]
+
+[2024-07-09-10:03:15.992] 

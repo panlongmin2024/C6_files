@@ -1,0 +1,1 @@
+[2024-05-27-16:25:46.378] HTTPConnectionPool(host='192.168.1.102', port=8001): Max retries exceeded with url: /sign-firmware-development (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002305F4BA1D0>, 'Connection to 192.168.1.102 timed out. (connect timeout=3)'))

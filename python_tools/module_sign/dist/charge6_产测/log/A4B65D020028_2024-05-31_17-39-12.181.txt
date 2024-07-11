@@ -1,0 +1,9 @@
+[2024-05-31-17:39:11.771] 发送过站请求: 
+[2024-05-31-17:39:11.857] {'code': 200, 'success': True, 'data': None, 'msg': '成功！'}
+[2024-05-31-17:39:11.859] uuid_string: c1bbc9d89287476ba537d8931aa6ee71
+[2024-05-31-17:39:11.936] hash_value:518b65031c49ca3fbb0495cfb9e66f15b8d9de7187995af230e15e0a01a8a417
+[2024-05-31-17:39:11.936] 向树莓派发送请求,url: http://192.168.1.100:8001/sign-firmware-development
+[2024-05-31-17:39:12.008] response:{"signature":"E+PS7waFBd4g5SqQ9NENRxYA4WnnssSzY9B+LiknF60R67VZYUFQthvdtFfdT130ubFlfvUsyr8TJPjdjruhHRvXEe3nBv5z7q81/qOQ43eAzLTbKd59qqNHmHbK8RHKTaQ16hbaMz2s3gAdl/ETZRAsXR0I12yuC+y/FbqFUei2j4Fi5XDBcrCkCtwub7nUN8P/QerIcskms3aKRjMNMmkIzoESwQLuVf9s927nl+7/yQXYBf9mWSzRI0/LbXc4cfe51QSrazStHlqlAuZIWkD6q9DS5hPcFKzd30YeIPpyQAavg74XnaALhqBkPfJLk8z8xXKnGjBGWh6BEO0M/w=="}
+
+[2024-05-31-17:39:12.020] key文件生成成功
+[2024-05-31-17:39:12.180] {'code': 200, 'success': True, 'data': None, 'msg': '【A4B65D020028】产品序列号过站成功!'}
